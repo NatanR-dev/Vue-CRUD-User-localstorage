@@ -35,7 +35,8 @@ Importe a pasta do seu projeto, agora vá em `Tarefas > serve > Iniciar Tarefa`<
 Pronto agora você poderá gerenciar seu projeto de forma gráfica :)<br /> 
 
 ## Dependencias
-Vuex, Vue Router, bootstrap 4, jquery, Font Awesome 4
+[fake api jwt json server](https://github.com/techiediaries/fake-api-jwt-json-server), Vuex, Vue Router, bootstrap 4, jquery, Font Awesome 4
+
 
 
 # Data do teste: 
