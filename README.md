@@ -1,7 +1,5 @@
 # Vue-CRUD-User-localstorage
 
-![Simple Google Chart]()
-
 WebApp em Vuejs que armazena os dados através do <b>localstorage</b>, CRUD (cria, lista, exclui e edita os dados cadastrados pelo formulário de cadastro)<br /> 
 Depois conecta com um <b>fake jwt backend</b>, o app possuí 'duas sessões', login/signup e dashboard. 
 
