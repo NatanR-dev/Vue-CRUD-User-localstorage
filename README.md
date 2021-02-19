@@ -34,7 +34,11 @@ Depois digite o comando `vue ui`, espere o Vue CLI abrir<br />
 Agora com o Vue CLI rodando na porta `8000` do browser, olhe para o canto superior esquerda do monitor<br />
 e clique em `Gerenciador de Projetos Vue`<br />
 Importe a pasta do seu projeto, agora vá em `Tarefas > serve > Iniciar Tarefa`<br />
-Pronto agora você poderá gerenciar seu projeto de forma gráfica :)<br />  
+Pronto agora você poderá gerenciar seu projeto de forma gráfica :)<br /> 
 
 ## Dependencias
 Vuex, Vue Router, bootstrap 4, jquery, Font Awesome 4
+
+
+# Data do teste: 
+<b>17/02/21 até 19/02/21</b> | feito pelo <a href="https://allopagfacil.com.br" target="_blank"><img src="https://allopagfacil.com.br/site-2020/img/logo-grupoallo.png" alt="GrupoAllo Logo" width="65" target="_blank"></a>
