@@ -5,6 +5,9 @@
     <title>WebApp - Vue</title>
     <link href="//netdna.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" />
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="manifest" href="../src/manifest.json" />
+    <script src="../src/pwa.dev.min.js"></script>
+    <script> if (navigator.serviceWorker) { navigator.serviceWorker.register('../src/sw.js') } </script>
 
 
 <style>
@@ -359,7 +362,7 @@ a {
     <!-- credits -->
     <div class="text-center">
         <p>
-            <a href="http://github.com/NatanR-dev" target="_blank"><i class="fa fa-code-fork" aria-hidden="true"></i> VUE CRUD USER + Vuex & JWT</a>
+            <a href="https://github.com/NatanR-dev/Vue-CRUD-User-localstorage" target="_blank"><i class="fa fa-code-fork" aria-hidden="true"></i> VUE CRUD USER + Vuex & JWT</a>
         </p>
         <p>
             <a href="http://github.com/NatanR-dev" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> NatanR-dev</a>
